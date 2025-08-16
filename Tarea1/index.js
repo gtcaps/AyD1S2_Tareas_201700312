@@ -4,7 +4,7 @@ const app = express();
 const DATA = {
   nombre: "Aybson Diddiere Mercado Grijalva",
   carnet: "201700312",
-  cancion_favorita: "Knockin on Heavens Door",
+  album_favorito: "Use Your Illusion I",
   autor: "Guns n Roses"
 };
 
